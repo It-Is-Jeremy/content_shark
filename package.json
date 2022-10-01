@@ -1,0 +1,11 @@
+{
+  "name": "content_shark",
+  "version": "1.0.0",
+  "description": "Enabling users to consume content in healthier ways",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeremy",
+  "license": "ISC"
+}
